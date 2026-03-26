@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+AND basic demonstration
 
 ## How to test
 
-Explain how to use your project
+Change inputs 0 (A) and 1 (B) to view output of different logic gates
 
 ## External hardware
 
